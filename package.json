@@ -2,6 +2,10 @@
   "name": "afidf",
   "version": "0.1.0",
   "private": true,
+      "engines": {
+        "node": "v14.17.0",
+        "yarn": "1.22.10"
+      },
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "@ckeditor/ckeditor5-build-classic": "^16.0.0",
